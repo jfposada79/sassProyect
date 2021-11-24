@@ -1,0 +1,43 @@
+ @import "abstracts/functions";
+ @import "abstracts/mixins";
+ @import "abstracts/variables";
+
+ @import "base/animations.scss";
+ @import "base/base.scss";
+ @import "base/typography.scss";
+ @import "base/utilities.scss";
+
+ @import "pages/home";
+
+ @import "components/button";
+ @import "components/composition";
+
+ @import "layout/header";
+ @import "layout/grid" ;
+
+*::after,
+*::before {
+    border: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
