@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfposada79/sassProyect.git"
+  },
+  "author": "Fernando Posada\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\"Fernando Posada\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfposada79/sassProyect/issues"
+  },
+  "homepage": "https://github.com/jfposada79/sassProyect#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
