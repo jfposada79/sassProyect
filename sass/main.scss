@@ -20,23 +20,23 @@
 
  @import "layout/header";
  @import "layout/grid" ;
- @import "layout/layout" ;
+ @import "layout/footer" ;
  @import "layout/navegation" ;
 
-*::after,
-*::before {
-    border: 0;
-    padding: 0;
-    box-sizing: inherit;
-}
+// *::after,
+// *::before {
+//     border: 0;
+//     padding: 0;
+//     box-sizing: inherit;
+// }
 
-html {
-    font-size: 62.5%;
-}
+// html {
+//     font-size: 62.5%;
+// }
 
-body {
-    box-sizing: border-box;
-}
+// body {
+//     box-sizing: border-box;
+// }
 
 
 
